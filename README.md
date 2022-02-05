@@ -7,11 +7,13 @@
 
 - 🌱 I’m currently learning **Java and JavaScript**
 
+- 🧠 Intrested in Web3.0
+
 - 💬 Ask me about **anything!**
 
-- 📫 How to reach me **631heats@gmail.com**
+- 📫 Reach me by email: **631heats@gmail.com**
 
-- ⚡ Fun fact **I've never been to DisneyLand!**
+- ⚡ Fun fact **I don't like peanut butter!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
