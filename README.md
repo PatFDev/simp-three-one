@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java and JavaScript**
 
-- 🧠 Intrested in Web3.0
+- 🧠 Interested in Web3.0
 
 - 💬 Ask me about **anything!**
 
