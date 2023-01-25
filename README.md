@@ -1,5 +1,5 @@
 <h1 align="center">What's Up? 👋, I'm Pat!</h1>
-<h3 align="center">Current High School Senior</h3>
+<h3 align="center">Currently Studying **Computer Science** At Suffolk Community College</h3>
 
 <p align="left"> <a href="https://twitter.com/waiting4restock" target="blank"><img src="https://img.shields.io/twitter/follow/waiting4restock?logo=twitter&style=for-the-badge" alt="waiting4restock" /></a> </p>
 
