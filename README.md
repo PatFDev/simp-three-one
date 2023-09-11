@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything!**
 
-- 📫 Reach me by email: **631heats@gmail.com**
+- 📫 Reach me by email: **631heats@gmail.com** 
 
 - ⚡ Fun fact **I don't like peanut butter!**
 
